@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void Swap(int *num1,int *num2)
+void Swap(int *num1,int *num2) //交换两个数
 {
     int number;
 
@@ -11,7 +11,7 @@ void Swap(int *num1,int *num2)
 }
 int main()
 {
-    printf("hello world");
+    printf("hello world"); //打印hello world 
 
     
     return 0;
